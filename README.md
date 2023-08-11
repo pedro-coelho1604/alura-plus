@@ -10,7 +10,7 @@ HTML e CSS: praticando HTML/CSS
 * Flexbox
 
 ## Imagem do projeto
-![Screenshot da tela inicial do AluraBooks](Imagem-projeto.png)
+![Screenshot da tela inicial do AluraBooks](img/Imagem-projeto.png)
 
 ## Link do projeto
 Para ter acesso ao meu projeto [clique aqui](https://pedro-coelho1604.github.io/alura-plus/)
